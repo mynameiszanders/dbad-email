@@ -1,0 +1,53 @@
+DON'T BE A DICK EMAIL GUIDELINES
+
+Version 1, January 2011
+
+COPYRIGHT AND ACCREDITATIONS
+
+Copyright (C) 2009 Alexander Baldwin <http://github.com/mynameiszanders>
+
+These guidelines are released under the DON'T BE A DICK PUBLIC LICENSE by Phil
+Sturgeon <email@philsturgeon.co.uk>, the main inspiration for this document,
+which can be found at <http://philsturgeon.co.uk/code/dbad-license>. Everyone is
+permitted to copy and distribute verbatim or modified copies of this document,
+and changing it is allowed as long as the name is changed.
+
+                    DON'T BE A DICK EMAIL GUIDELINES LICENSE
+   TERMS AND CONDITIONS FOR CONTACTING AN EXTERNAL ENTITY VIA ELECTRONIC MAIL
+
+  1. Send the damn email, just don't be a dick.
+     Being a dick includes - but is not limited to - the following instances:
+
+     1a. Extreme profanity - any use of profanity, bar appropriate use in quotes
+         or as an emphasising adverb not directed toward the negative
+         description of an individual or corporation, are prohibited.
+     1b. Using a subject line that is unrelated to the content.
+     1c. Using an email provider that inserts advertising into your outgoing
+         email. If you use Hotmail, you are a right dick.
+     1d. Not using the correct language and grammar to the best of your ability.
+         If you leave the CAPSLOCK on, you are a PROPER dick; it should only be
+         used for word emphasis in plain text emails - if in doubt, use
+         Markdown.
+     1e. Sending unnecessary or uncompressed media via attachments, especially
+         if that media is unnecessarily included in the body of the message.
+
+  2. Do not use an email address for anything but it's intended purpose.
+
+     2a. Do not harvest an email address for later use without having an
+         intended later use.
+     2b. Do not use the email address as a recipient for marketing, advertising
+         or promotional use.
+     2c. Do not distribute an email address to others if it has not already been
+         made public.
+
+  3. Do not help the association of the email address, in any way, to the
+     sending and/or recieving of spam. If you do this, or are the cause of this,
+     you are a DONKEY dick.
+
+  3. If conditions one (1) or two (2) are broken, do not expect a reply.
+
+  4. If you continue to break conditions one (1) or two (2), expect karma to get
+     you. Or your mail server.
+
+
+                                    FIN.
