@@ -4,7 +4,7 @@ Version 1, Revision 2, February 2011.
 
 COPYRIGHT AND ACCREDITATIONS
 
-Copyright (C) 2009 Alexander Baldwin <http://github.com/mynameiszanders>
+Copyright (C) 2011 Alexander Baldwin <http://github.com/mynameiszanders>
 
 These guidelines are released under the DON'T BE A DICK PUBLIC LICENSE by Phil
 Sturgeon <email@philsturgeon.co.uk>, the main inspiration for this document,
