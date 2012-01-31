@@ -18,9 +18,10 @@ and changing it is allowed as long as the name is changed.
   1. Send the damn email, just don't be a dick.
      Being a dick includes - but is not limited to - the following instances:
 
-     1a. Extreme profanity - any use of profanity, bar appropriate use in quotes
-         or as an emphasising adverb not directed toward the negative
-         description of an individual or corporation, are prohibited.
+     1a. Extreme profanity - any use of profanity, bar appropriate use in quotes,
+         informal banter or as an emphasising adverb not directed toward the
+         negative description of an individual, entity or movement, are
+         prohibited.
      1b. Using a subject line that is unrelated to the content.
      1c. Using an email provider that inserts advertising into your outgoing
          email. If you use Hotmail, you are a right dick.
